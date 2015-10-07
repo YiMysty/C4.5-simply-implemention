@@ -4,10 +4,17 @@ Simply implement of C4.5 By Java
 you can try use `cd` to get in to the file folder.
 And then `java -jar xxx.jar` to run the corresponding program.
 
-TrainWithoutPrune.jar ----Build the model without prune.
-TrainWithPrune.jar    ----Build the model with prune.
-Validate.jar          ----get the accuracy based on current tree model.
-Test.jar              ----get the prediction of the btest.csv and ouput as output_btest.csv
+TrainWithoutPrune.jar
+Build the model without prune.
+
+TrainWithPrune.jar
+Build the model with prune.
+
+Validate.jar
+get the accuracy based on current tree model.
+
+Test.jar
+get the prediction of the btest.csv and ouput as output_btest.csv
 
 Also, you can modify the parameter in myConfiguration.properties
 
