@@ -42,7 +42,7 @@ the model name
 this will work in prune tree. generate the tree with  Trainsize * DataSize data
 
 #####learnigsize  
-determine to use how many data to get the tree.
+determine to use how many data to get the tree model.
 
 #####isPruendModel 
 determine to use the prune model or not. it will only useful if the current pruning model is generated.
